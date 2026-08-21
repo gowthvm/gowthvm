@@ -12,17 +12,24 @@ Currently focused on **Python, Windows software development, Linux, electronics,
 
 ## Featured Project
 
-<a href="https://github.com/gowthvm/Flint">
-  <img src="https://img.shields.io/badge/Flint-Windows%20Disk%20Imaging-111827?style=for-the-badge" alt="Flint" />
-</a>
+<table>
+<tr>
+<td width="110" valign="middle">
+  <img src="./assets/flint.png" width="90" alt="Flint logo">
+</td>
+<td valign="middle">
 
 ### Flint
 
 **A Windows-native bootable USB and disk-image writer built with Python.**
 
+</td>
+</tr>
+</table>
+
 Most imaging tools stop when the write operation finishes. Flint takes a different approach: it can **read the target drive back and verify the written data against the source using SHA-256**, providing a way to check that the image actually made it onto the device correctly.
 
-#### What it does
+### What it does
 
 * Writes ISO and raw disk images
 * Performs full-drive SHA-256 verification
@@ -68,18 +75,14 @@ Taking a practical problem, understanding the constraints, and building a soluti
 
 ## Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,qt,linux,windows,git,github,arduino,raspberrypi,vscode" alt="Technologies I work with" />
-</p>
-
 | Area        | Technologies                                      |
 | ----------- | ------------------------------------------------- |
 | Languages   | Python, C++, C#                                   |
 | Desktop     | PyQt6, Qt, .NET                                   |
 | Platforms   | Windows, Linux                                    |
-| Hardware    | Arduino, Raspberry Pi, embedded systems           |
+| Hardware    | Arduino, Raspberry Pi, Embedded Systems           |
 | Development | Git, GitHub, VS Code                              |
-| Interests   | Systems programming, robotics, AI/ML, electronics |
+| Interests   | Systems Programming, Robotics, AI/ML, Electronics |
 
 Python is currently my strongest language, with most of my recent software work centered around it.
 
@@ -119,22 +122,9 @@ Long term, I want to work at the intersection of **electronics and software**, b
 
 ## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthvm&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Gowtham's GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthvm&hide_border=true&theme=transparent" height="165" alt="Gowtham's contribution streak" />
-</p>
+Most of my public work is centered around building and experimenting with software, systems, and hardware.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthvm&layout=compact&hide_border=true&theme=transparent" height="165" alt="Gowtham's most used languages" />
-</p>
-
----
-
-## Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gowthvm/gowthvm/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
-</p>
+Explore my repositories at **github.com/gowthvm**.
 
 ---
 
@@ -151,12 +141,9 @@ The principle I like most applies equally well to engineering:
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/gowthvm">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/gowthamgkofficial/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/gowthvm">GitHub</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gowthamgkofficial/">LinkedIn</a>
 </p>
 
 <p align="center">
