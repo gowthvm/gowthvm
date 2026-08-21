@@ -6,12 +6,14 @@ I build software and hardware to solve practical problems.
 
 My interests span **Python, Windows software development, Linux, electronics, embedded systems, robotics, AI/ML, and open-source software**. I enjoy working across the boundary between software and hardware and turning ideas into useful, working systems.
 
-> **                                                       
+    '''                                                     
                                                        
  ▄████  ▄████▄ ██     ██ ██████ ██  ██ ▄████▄ ██▄  ▄██ 
 ██  ▄▄▄ ██  ██ ██ ▄█▄ ██   ██   ██████ ██▄▄██ ██ ▀▀ ██ 
  ▀███▀  ▀████▀  ▀██▀██▀    ██   ██  ██ ██  ██ ██    ██ 
-                                                       **
+                                                       
+                                                       
+    '''
 
 ---
 
