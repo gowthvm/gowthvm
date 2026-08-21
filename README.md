@@ -1,120 +1,131 @@
-```                                                       
-                         __  .__                 
-   ____   ______  _  ___/  |_|  |_____  _______  
-  / ___\ /  _ \ \/ \/ /\   __\  |  \  \/ /     \ 
- / /_/  >  <_> )     /  |  | |   Y  \   /  Y Y  \
- \___  / \____/ \/\_/   |__| |___|  /\_/|__|_|  /
-/_____/                           \/          \/ 
-                                                       
-```
-
 # Gowtham G.K.
 
-### Software Developer · Electronics Enthusiast · Builder
+**Software Developer · Electronics · Systems · Open Source**
 
-I build software and hardware to solve practical problems.
+I build software and hardware around problems I find interesting.
 
-My interests span **Python, Windows software development, Linux, electronics, embedded systems, robotics, AI/ML, and open-source software**. I enjoy working across the boundary between software and hardware and turning ideas into useful, working systems.
-                                                    
+My work sits at the intersection of **software development, systems, electronics, and embedded engineering**. I enjoy understanding how things work underneath the abstraction, then turning that understanding into tools and systems that are actually useful.
+
+Currently focused on **Python, Windows software development, Linux, electronics, and embedded systems**, while exploring robotics and AI/ML.
 
 ---
 
 ## Featured Project
 
+<a href="https://github.com/gowthvm/Flint">
+  <img src="https://img.shields.io/badge/Flint-Windows%20Disk%20Imaging-111827?style=for-the-badge" alt="Flint" />
+</a>
+
 ### Flint
 
 **A Windows-native bootable USB and disk-image writer built with Python.**
 
-Flint is designed to make disk imaging more reliable by going beyond simply writing an image and reporting success. After flashing, it can re-read the target drive and verify the written data against the source using SHA-256 hashing.
+Most imaging tools stop when the write operation finishes. Flint takes a different approach: it can **read the target drive back and verify the written data against the source using SHA-256**, providing a way to check that the image actually made it onto the device correctly.
 
-#### Features
+#### What it does
 
-* ISO and raw disk-image writing
-* Full-drive SHA-256 verification
-* Byte-level mismatch detection
-* Drive backup and cloning
-* Bad-block scanning
-* Drive wiping
-* Linux persistence
-* Windows To Go
-* Native Windows interface
-* Command-line interface
-* Headless and scriptable workflows
-* Portable executable distribution
-* Flash history and reports
-* Open source under the MIT License
+* Writes ISO and raw disk images
+* Performs full-drive SHA-256 verification
+* Detects byte-level mismatches
+* Creates drive backups
+* Clones drives
+* Scans drives for bad blocks
+* Wipes drives
+* Supports Linux persistence
+* Supports Windows To Go
+* Provides both a graphical interface and CLI
+* Supports headless and scriptable workflows
+* Ships as a portable Windows executable
+* Maintains flash history and reports
 
 **Built with:** Python · PyQt6 · Windows APIs · WMI · psutil
 
-[View Flint on GitHub](https://github.com/gowthvm/Flint)
-[Visit the Flint website](https://flintweb.vercel.app)
+[Repository](https://github.com/gowthvm/Flint) · [Website](https://flintweb.vercel.app)
 
 ---
 
-## Technologies
+## What I Build
 
-### Languages
+I am most interested in projects where software has to interact with the real world rather than existing entirely inside an abstraction.
 
-Python · C++ · C#
+**Software**
 
-### Development
+Windows applications, developer tools, automation, command-line utilities, and systems-oriented software.
 
-Windows · Linux · Git · GitHub · .NET · Qt
+**Systems**
 
-### Hardware & Embedded
+Linux, operating-system concepts, low-level interfaces, storage, and software that interacts closely with the underlying platform.
 
-Arduino · Raspberry Pi · Embedded Systems · Electronics · Robotics
+**Hardware**
 
-### Interests
+Electronics, microcontrollers, embedded systems, robotics, and hardware/software integration.
 
-Software Engineering · Open Source · AI/ML · Systems Programming · Hardware-Software Integration
+**Engineering**
+
+Taking a practical problem, understanding the constraints, and building a solution from the ground up.
+
+---
+
+## Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,qt,linux,windows,git,github,arduino,raspberrypi,vscode" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,qt,linux,windows,git,github,arduino,raspberrypi,vscode" alt="Technologies I work with" />
 </p>
+
+| Area        | Technologies                                      |
+| ----------- | ------------------------------------------------- |
+| Languages   | Python, C++, C#                                   |
+| Desktop     | PyQt6, Qt, .NET                                   |
+| Platforms   | Windows, Linux                                    |
+| Hardware    | Arduino, Raspberry Pi, embedded systems           |
+| Development | Git, GitHub, VS Code                              |
+| Interests   | Systems programming, robotics, AI/ML, electronics |
+
+Python is currently my strongest language, with most of my recent software work centered around it.
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
-* Advanced Python and software engineering
+* Better software architecture and engineering practices in Python
 * Windows desktop application development
 * Linux and systems-level concepts
 * Electronics and embedded systems
 * Robotics
 * Artificial intelligence and machine learning
+* The boundary between hardware and software
 
 ---
 
-## Experience & Achievements
+## Highlights
 
 * Founded and helped run a school Coding Club focused on introducing students to Python
-* Top 25 National Finalist at Stockholm Junior Water Prize India 3.0
-* First Prize at SCI-VIT 2026 Model Making
-* Python certification
-* Experience building software and hardware projects independently
+* Top 25 National Finalist at **Stockholm Junior Water Prize India 3.0**
+* First Prize at **SCI-VIT 2026 Model Making**
+* Python certified
+* Building software and hardware projects independently
 
 ---
 
-## Engineering Philosophy
+## Engineering
 
-I prefer building things that have a purpose.
+I care more about **building and understanding** than simply collecting technologies.
 
-Whether it is a desktop application, an embedded system, or an electronics project, I like taking a problem, understanding how it works, and building a solution from the ground up.
+When I start a project, I want to understand the problem, the constraints, and what is happening underneath the surface. That usually leads me toward projects involving systems, hardware, or software that interacts closely with the platform it runs on.
 
-My long-term goal is to work at the intersection of **electronics and software**, developing systems that are technically interesting while being genuinely useful.
+Long term, I want to work at the intersection of **electronics and software**, building useful systems that combine both.
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthvm&show_icons=true&hide_border=true&theme=transparent" height="170" alt="Gowtham's GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthvm&hide_border=true&theme=transparent" height="170" alt="Gowtham's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gowthvm&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Gowtham's GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthvm&hide_border=true&theme=transparent" height="165" alt="Gowtham's contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthvm&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthvm&layout=compact&hide_border=true&theme=transparent" height="165" alt="Gowtham's most used languages" />
 </p>
 
 ---
@@ -122,16 +133,16 @@ My long-term goal is to work at the intersection of **electronics and software**
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gowthvm/gowthvm/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/gowthvm/gowthvm/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
 </p>
 
 ---
 
-## Beyond Technology
+## Outside Technology
 
-Outside of development and electronics, I am an avid gymgoer and strength-training enthusiast.
+I'm an avid gymgoer and strength-training enthusiast.
 
-I like the same principle in both engineering and training:
+The principle I like most applies equally well to engineering:
 
 **Consistency compounds.**
 
@@ -141,15 +152,13 @@ I like the same principle in both engineering and training:
 
 <p align="center">
   <a href="https://github.com/gowthvm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/gowthamgkofficial/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Build. Learn. Improve.</i>
+  <sub>Build things worth using.</sub>
 </p>
