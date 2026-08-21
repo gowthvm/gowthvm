@@ -1,3 +1,13 @@
+```                                                       
+                         __  .__                 
+   ____   ______  _  ___/  |_|  |_____  _______  
+  / ___\ /  _ \ \/ \/ /\   __\  |  \  \/ /     \ 
+ / /_/  >  <_> )     /  |  | |   Y  \   /  Y Y  \
+ \___  / \____/ \/\_/   |__| |___|  /\_/|__|_|  /
+/_____/                           \/          \/ 
+                                                       
+```
+
 # Gowtham G.K.
 
 ### Software Developer · Electronics Enthusiast · Builder
@@ -6,12 +16,6 @@ I build software and hardware to solve practical problems.
 
 My interests span **Python, Windows software development, Linux, electronics, embedded systems, robotics, AI/ML, and open-source software**. I enjoy working across the boundary between software and hardware and turning ideas into useful, working systems.
                                                     
-```                                                       
- ▄████  ▄████▄ ██     ██ ██████ ██  ██ ▄████▄ ██▄  ▄██ 
-██  ▄▄▄ ██  ██ ██ ▄█▄ ██   ██   ██████ ██▄▄██ ██ ▀▀ ██ 
- ▀███▀  ▀████▀  ▀██▀██▀    ██   ██  ██ ██  ██ ██    ██ 
-                                                       
-```
 
 ---
 
