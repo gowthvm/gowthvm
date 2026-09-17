@@ -61,7 +61,7 @@ The target drive can be read back after flashing and compared against the origin
 
 **Repository:** [github.com/gowthvm/Flint](https://github.com/gowthvm/Flint)
 
-**Website:** [flintweb.vercel.app](https://flintweb.vercel.app)
+**Website:** [flintweb.vercel.app](https://flintusb.pages.dev)
 
 **License:** MIT
 
