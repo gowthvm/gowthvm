@@ -7,7 +7,7 @@ Building **Flint**.
 <table>
 <tr>
 <td width="110" valign="middle">
-  <a href="https://flintusb.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://flintweb.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/flint.png" width="90" alt="Flint logo">
   </a>
 </td>
