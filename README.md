@@ -12,10 +12,11 @@ Building **Flint**.
   </a>
 </td>
 <td valign="middle">
-  <a href="https://flintweb.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <h2>Flint</h2>
-    <strong>A Windows-native bootable USB and disk-image writer built with Python.</strong>
-  </a>
+
+## Flint
+
+**A Windows-native bootable USB and disk-image writer built with Python.**
+
 </td>
 </tr>
 </table>
