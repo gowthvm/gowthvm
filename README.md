@@ -8,7 +8,7 @@ Building **FluorineOS** and **Flint**.
 <tr>
 <td width="110" valign="middle">
   <a href="https://fluorineos.pages.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/fluorine.svg" width="90" alt="FluorineOS emblem">
+    <img src="https://github.com/FluorineOS/fluorine/blob/main/fluorine-logo.png" width="90" alt="FluorineOS emblem">
   </a>
 </td>
 <td valign="middle">
