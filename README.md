@@ -1,4 +1,4 @@
-# Gowtham G.K.
+# Gowtham G.K
 
 Building **FluorineOS** and **Flint**.
 
